@@ -1,0 +1,8 @@
+{
+  "name": "HealthHub Telemedicine & E-Pharmacy",
+  "description": "A comprehensive modern healthcare platform offering virtual consultations, digital prescriptions, and an integrated e-pharmacy experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
